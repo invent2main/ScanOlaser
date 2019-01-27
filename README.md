@@ -1,4 +1,4 @@
 # ScanOlaser
 scanner 3D DIY
 
-based on freeLSS software
+with use of freeLSS software running on a RPI
